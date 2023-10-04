@@ -1,0 +1,2 @@
+An Introductory course in the field of DevOps to show students the
+fundamental understanding of DevOps principles, practices, and tools.
