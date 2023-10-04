@@ -1,6 +1,10 @@
 # COMP3104_Group06_Assignment
-# Update 1
-# Added text inside the devops file
+Update 2
+- Added objectives/goals inside Devops file
+- Clean up README file
+
+Update 1
+- Added text inside the Devops file
 
 
 - Adina Termechikova - 101391769
