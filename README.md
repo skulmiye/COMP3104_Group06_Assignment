@@ -1,5 +1,9 @@
 # COMP3104_Group06_Assignment
 
+Update 1
+- Added devops.txt file
+
+Student
 - Adina Termechikova - 101391769
 - Jon Seltzer - 101124255
 - Khadija Bodhania - 101240746
