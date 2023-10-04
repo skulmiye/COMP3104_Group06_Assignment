@@ -4,3 +4,5 @@
  planning, analysis, design, implementation, testing, deployment, and maintenance.
 
  3. The SDLC has 6 steps planning, analysis, design, implementation, testing and integration, and lastly maintenance.
+
+ 4. There are different types of model when in come to sdlc such as waterfall, agile and lastly devops 

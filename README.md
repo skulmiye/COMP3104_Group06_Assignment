@@ -31,3 +31,6 @@ Update 8
 
 Update 9 
 - Added text about steps in the sdlc file
+
+Update 10
+- Added text about models in the sdlc file 
