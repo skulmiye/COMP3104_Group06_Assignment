@@ -7,3 +7,6 @@
 
 Update 1
 - Created and added a text in gb file
+
+Update 2
+- Added another text in the gb file 
