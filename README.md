@@ -19,3 +19,6 @@ Update 4
 
 Update 5
 - Added another line of text about devops 
+
+Update 6
+- Added another line of text about devops/comp3104
