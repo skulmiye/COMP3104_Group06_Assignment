@@ -1,10 +1,16 @@
 # COMP3104_Group06_Assignment
+
+Update 11
+- Fix indents
 Update 10
 - All Assignment Details done!?
+
 Update 9
 - :O Smilely Face To Make Your Day
+
 Update 8
 - Added backup txt file incase merge has errors
+
 Update 7
 - Fix typos
 
