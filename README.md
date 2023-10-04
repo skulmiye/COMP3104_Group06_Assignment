@@ -10,3 +10,6 @@ Update 1
 
 Update 2
 - Added another text in the gb file 
+
+Update 3
+- Added text about the names of the three main campus
