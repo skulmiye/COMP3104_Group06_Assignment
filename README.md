@@ -1,5 +1,8 @@
 # COMP3104_Group06_Assignment
 
+Update 4
+- Added text to gb.txt file
+
 Update 3
 - Added gb.txt file
 
