@@ -22,3 +22,6 @@ Update 5
 
 Update 6
 - Added another line of text about devops/comp3104
+
+Update 7 
+- Crated and added a text in sdlc file 
