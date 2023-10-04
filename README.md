@@ -28,3 +28,6 @@ Update 7
 
 Update 8
 - Added two lines of text in the sdlc file 
+
+Update 9 
+- Added text about steps in the sdlc file
