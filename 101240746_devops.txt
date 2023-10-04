@@ -1,1 +1,4 @@
 1. This text file is about comp3104 which is a devops class 
+
+2.DevOps is a methodology that unifies software development (Dev) and IT operations (Ops) to enhance collaboration and automate the software delivery process, 
+fostering faster and more reliable releases
