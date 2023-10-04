@@ -25,3 +25,6 @@ Update 6
 
 Update 7 
 - Crated and added a text in sdlc file 
+
+Update 8
+- Added two lines of text in the sdlc file 
