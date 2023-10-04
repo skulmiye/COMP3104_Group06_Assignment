@@ -1,5 +1,8 @@
 # COMP3104_Group06_Assignment
 
+Update 2
+- Adde text to devops.txt file
+
 Update 1
 - Added devops.txt file
 
