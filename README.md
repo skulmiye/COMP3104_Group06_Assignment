@@ -13,3 +13,6 @@ Update 2
 
 Update 3
 - Added text about the names of the three main campus
+
+Update 4
+- Created and added a text in the devops files 
