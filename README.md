@@ -5,3 +5,5 @@
 - Khadija Bodhania - 101240746
 - Sabirin  Kulmiye - 101363605
 
+Update 1
+- Created and added a text in gb file
