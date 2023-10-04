@@ -1,5 +1,8 @@
 # COMP3104_Group06_Assignment
 
+Update 7
+- Fix typos
+
 Update 6
 - Added text to sdlc.txt file
 
@@ -13,7 +16,7 @@ Update 3
 - Added gb.txt file
 
 Update 2
-- Adde text to devops.txt file
+- Added text to devops.txt file
 
 Update 1
 - Added devops.txt file
