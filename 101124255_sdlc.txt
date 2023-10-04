@@ -1,0 +1,6 @@
+Faster development of aapplications,software and 
+easier maintence for them on new deployments or existing ones.
+
+Optimizes an entire business
+- Provides insight
+- More adaptive for customer and business needs

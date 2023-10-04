@@ -7,3 +7,4 @@ Course Objectives/Goals
 Understanding and learning the core concepts and principles of DevOps.
 Highlight the collaboration and communication in DevOps such as this COMP3104_Group06_Assignment
 Learn how to use the tools and techniques for managing applications and docker
+x`
