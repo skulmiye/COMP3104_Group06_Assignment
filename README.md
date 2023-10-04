@@ -1,5 +1,8 @@
 # COMP3104_Group06_Assignment
 
+Update 5
+- Added sdlc.txt file
+
 Update 4
 - Added text to gb.txt file
 
