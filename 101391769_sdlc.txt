@@ -1,0 +1,18 @@
+ -- This file contains details about the importance of learning DevOps engineering in the software development cycle. --
+
+ The Software Development Life Cycle (SDLC) is a structured process that enables
+the production of high-quality, low-cost software, in the shortest possible
+production time.
+
+SDLC in DevOps is about collaboration, automation, feedback, and integrating
+development and operations to deliver high-quality software efficiently.
+
+The SDLC has 7 steps:
+- Project Planning - the team estimates the cost and defines the requirements of the new software
+- Gathering Requirments & Analysis - gathering maximum information from the client requirements for the product
+- Design - the program developer scrutinizes whether the prepared software suffices all the requirements of the end-user
+- Implementation - translating the design into a computer-legible language
+- Testing - the testing team tests the functionality of the entire system
+- Deployment - it is released for customers to use
+- Maintenance - according to the changing user end environment or technology, the software is updated timely
+

@@ -1,0 +1,26 @@
+-- This is information about George Brown College --
+
+George Brown College is a public, fully accreditated college of applied 
+arts and technology with three campuses in downtown Toronto (Ontario, Canada):
+       -- Casa Loma Campus is situated on the stretch of Kendal Ave. between
+Davenport Rd. and Macpherson Ave;
+       -- St.James Campus consists of five buildings. The first is a large
+brick building at 200 King St. E. The second and third are located at 290 and
+300 Adelaide St. East and are connected;
+       -- Waterfront Campus located at 51 Dockside Dr.(by lake Ontario);
+
+The college was established in 1967 and named after George Brown, who was an 
+important 19h-century politician and newspaper publisher who played a pivotal
+role in Canada's history.  
+
+--- Academic Programs: ---
+Offers a wide range of programs including diplomas, certificates, and degree
+programs in fields like business, health science, arts and design, technology,
+and hospitality.
+
+-- Diversity and Inclusion: ---
+Provides an inclusive and welcoming environment for students from diverse
+backgrounds, embracing Toronto's multiculturalism. 
+
+    The college is known for its commitment to innovation and research, 
+driving advancements in various fields.
