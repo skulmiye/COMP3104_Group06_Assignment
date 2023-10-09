@@ -1,0 +1,6 @@
+1. This text file is about comp3104 which is a devops class 
+
+2.DevOps is a methodology that unifies software development (Dev) and IT operations (Ops) to enhance collaboration and automate the software delivery process, 
+fostering faster and more reliable releases
+
+3. In school, in the deveops course comp3104, we work with git, github, version control. Using different command everyday push and pull. 
