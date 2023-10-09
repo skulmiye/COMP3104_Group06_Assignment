@@ -1,0 +1,20 @@
+- SDLC In DevOps -
+SDLC stands for Software Development Lifecycle.
+Learning DevOps engineering is crucial in the software development cycle as it streamlines collaboration 
+between development and operations teams. It enables continuous integration and deployment, 
+ensuring faster and more reliable software releases.
+
+DevOps practices also enhance code quality, automate tasks, and improve overall efficiency, 
+leading to shorter development cycles and higher customer satisfaction.
+
+Additionally, DevOps principles facilitate scalability and resilience, 
+making it an essential skill for modern software development teams.
+
+- The Steps of SDLC - 
+Stage 1: Project Planning
+Stage 2: Gathering Requirements & Analysis
+Stage 3: Design
+Stage 4: Coding or Implementation
+Stage 5: Testing
+Stage 6: Deployment
+Stage 7: Maintenance
