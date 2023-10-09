@@ -1,0 +1,30 @@
+COMP3104 -  Developer Operations - Fall 2023
+
+- Course Description - 
+This course focuses on equipping students with essential DevOps practices to enhance workplace productivity. 
+It covers analyzing and implementing various developer operations methods using industry-standard tools. 
+Students will develop the ability to devise solutions for complex business challenges while adhering to core DevOps responsibilities.
+
+- Course Outcomes -
+In this course, students will learn and apply key DevOps techniques using industry-standard tools. 
+They will gain proficiency in areas like continuous integration, deployment strategies, and application containerization. 
+Practical lab work will be a significant component. 
+
+Additionally, students will understand the role of an engineer 
+in fostering effective cross-collaboration among IT staff. They'll also learn to analyze Version Control System workflows 
+for safe software releases and make informed architectural decisions,
+particularly regarding monolith vs microservice architectures. 
+
+The course covers monitoring code quality, deploying applications, 
+and leveraging Infrastructure as Code and cloud computing benefits. 
+Finally, students will learn to identify market opportunities as a DevOps engineer.
+
+- Relevant Resources -
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
+- Current Progress - 
+We are working through our first assignment due at the end of week five.

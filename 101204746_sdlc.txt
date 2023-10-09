@@ -1,0 +1,8 @@
+1. SDLC stand for Software Developement Life Cycle
+
+2. The Software Development Life Cycle (SDLC) is a systematic process for designing, developing, testing, and deploying software applications, ensuring they meet quality and business requirements while managing project risks and resources. It typically consists of phases such as
+ planning, analysis, design, implementation, testing, deployment, and maintenance.
+
+ 3. The SDLC has 6 steps planning, analysis, design, implementation, testing and integration, and lastly maintenance.
+
+ 4. There are different types of model when in come to sdlc such as waterfall, agile and lastly devops 
