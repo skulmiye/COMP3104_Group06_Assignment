@@ -1,0 +1,16 @@
+-- This file contains information about the COMP3104 DevOps course. --
+
+COMP 3104 focuses on servers, web applications, and infrastructure for IT
+professionals. It provides hands-on experience with crucial DevOps 
+technologies such as Amazon Web Services, Ansible, Docker, and Travis CI.
+The course focuses on the financial impact of DevOps strategies as well as 
+their role in streamlining code deployment, error resolution, and team 
+communication. The course will prepare students to implement DevOps techniques effectively and make informed decisions regarding software architecture
+and deployment practices at work.
+
+-- Recommended Resources ---
+1. https://github.com
+2. https://travic-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
