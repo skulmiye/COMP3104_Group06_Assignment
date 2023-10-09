@@ -6,7 +6,7 @@ technologies such as Amazon Web Services, Ansible, Docker, and Travis CI.
 The course focuses on the financial impact of DevOps strategies as well as 
 their role in streamlining code deployment, error resolution, and team 
 communication. The course will prepare students to implement DevOps techniques effectively and make informed decisions regarding software architecture
-and deployment practices at work.
+and deployment practices at work..
 
 -- Recommended Resources ---
 1. https://github.com
@@ -14,3 +14,4 @@ and deployment practices at work.
 3. https://docker.com
 4. https://kubernetes.io
 5. https://www.sonarqube.org
+
