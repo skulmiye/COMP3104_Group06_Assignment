@@ -8,10 +8,11 @@ SDLC in DevOps is about collaboration, automation, feedback, and integrating
 development and operations to deliver high-quality software efficiently.
 
 The SDLC has 7 steps:
-- planning - 
-- analysis - 
-- design - 
-- implementation -
-- testing -
-- deployment - 
-- maintenance - 
+- Project Planning - the team estimates the cost and defines the requirements of the new software
+- Gathering Requirments & Analysis - gathering maximum information from the client requirements for the product
+- Design - the program developer scrutinizes whether the prepared software suffices all the requirements of the end-user
+- Implementation - translating the design into a computer-legible language
+- Testing - the testing team tests the functionality of the entire system
+- Deployment - it is released for customers to use
+- Maintenance - according to the changing user end environment or technology, the software is updated timely
+
